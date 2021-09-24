@@ -1,4 +1,4 @@
-The Apache 2.0 License (MIT)
+The MIT License (MIT)
 
 Copyright (c) 2014 Gabriele Cirulli
 
